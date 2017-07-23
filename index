@@ -1,0 +1,544 @@
+
+<!-- hero section -->
+
+    <div id="addax-hero">
+      <div class="container">
+      
+          <div class="ah-content half left">
+
+              <div class="ah-holder">
+
+                <h1 class="alignRight">Crafting your Digital Experience</h1>
+                <h3 class="alignRight">Your one stop shop for all of your digital needs</h3>
+        
+              </div>
+
+          </div>
+      
+      </div>
+
+    </div>
+    
+    <!-- hero section ends here -->
+
+
+    
+
+    <!-- flat grid -->
+
+    <div class="container flat-grid">
+
+      <div class="row">
+
+        <div class="col-md-6 no-padding">
+            
+            <div class="addax-card card1" style="background:#ff8181;">
+              
+              <div class="ac-content left">
+              
+                <h2 style="color:#fff">Web Development</h2>
+                <p style="color:#a95e5e">Beautiful websites helping your business to grow and prosper.</p>
+                <a href="#" class="btn light-btn btn-round">Get A Quote</a>
+              </div>
+              
+              <div class="ac-img right">
+                <img src="assets/img/web.png">
+              </div>
+            
+            </div>
+       
+        </div>
+
+        <div class="col-md-6 no-padding">
+            <div class="addax-card card1" style="background:#218ddf;">
+
+              <div class="ac-content left">
+                <h2 style="color:#fff">iOS Apps Development</h2>
+                <p style="color:#0e558a">Beautiful websites helping your business to grow and prosper.</p>
+                <a href="#" class="btn light-btn btn-round">Get A Quote</a>
+              </div>
+              
+              <div class="ac-img right">
+                <img src="assets/img/iphone-blue.png">
+              </div>
+              
+            </div>
+        </div>
+
+      </div>
+
+      <div class="row">
+        
+        <div class="col-md-4 no-padding">
+            <div class="addax-card card2" style="background:#efdfcf;">
+
+              <div class="ac-content">
+                <span class="icon icon-graphic-design-3"></span>
+                <h2 style="color:#111" class="alignCenter">2D/3D Animation</h2>
+                <p style="color:#c5b29f" class="alignCenter">Beautiful websites helping your business to grow and prosper.</p>
+                <a href="#" class="btn primary-btn btn-round">Get A Quote</a>
+              </div>
+              
+
+            </div>
+        </div>
+
+        <div class="col-md-4 no-padding">
+            <div class="addax-card card2" style="background:#040505;">
+
+              <div class="ac-content">
+                <span class="icon icon-tablet" style="color:#7b7b7b"></span>
+                <h2 style="color:#fff" class="alignCenter">Graphic Designs</h2>
+                <p style="color:#7b7b7b" class="alignCenter">Beautiful websites helping your business to grow and prosper.</p>
+                <a href="#" class="btn primary-btn btn-round">Get A Quote</a>
+              </div>
+              
+
+            </div>
+        </div>
+
+        <div class="col-md-4 no-padding">
+            <div class="addax-card card2" style="background:#ebecee;">
+
+              <div class="ac-content">
+                <span class="icon icon-flowchart" style="color:#111"></span>
+                <h2 style="color:#111" class="alignCenter">Online Marketing</h2>
+                <p style="color:#cecece" class="alignCenter">Beautiful websites helping your business to grow and prosper.</p>
+                <a href="#" class="btn primary-btn btn-round">Get A Quote</a>
+              </div>
+              
+
+            </div>
+        </div>
+
+
+
+      </div>
+
+    </div>
+
+    <!-- flat grid ends here -->
+
+
+    <!-- about us section -->
+
+    <div id="addax-about">
+
+      <div class="container container-full">
+
+        <div class="row">
+
+          <div class="col-md-6 vcenter" style="padding-left:6%;">
+
+            <h2 class="addax-subheading" style="color:#878692"><i>About Us</i></h2>
+            <h1 class="addax-heading heading-styler-left" style="color:#fff">We Are Digital <span>Traditionalist</span></h1>
+
+            <p style="color:#fff;margin-top:15px; color: #777682;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac metus ipsum. Ut ullamcorper lacus elementum leo gravida, a viverra arcu fringilla. Nulla bibendum, diam vel posuere vulputate, felis risus luctus libero, at pretium lacus metus eget sem. Maecenas tincidunt leo eget eleifend tincidunt. Donec cursus lacus ex, nec placerat ante posuere .</p><p style="color:#fff;margin-top:15px; color: #777682;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac metus ipsum. Ut ullamcorper lacus elementum leo gravida, a viverra arcu fringilla. Nulla bibendum, diam vel posuere vulputate, felis risus luctus libero, at pretium lacus metus eget sem. Maecenas tincidunt leo eget eleifend tincidunt. Donec cursus lacus ex, nec placerat ante posuere .</p>
+
+          </div><!--
+          --><div class="col-md-6 vcenter">
+            <img src="assets/img/about-img.png" style="width:100%;float:right;margin-right:-15px">
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <!-- about us section ends here -->
+
+
+
+    <!-- projects -->
+
+    <div id="addax-projects" class="style1">
+
+   
+      <div class="container">
+
+        <div class="row ap-heading">
+
+          <div class="col-md-4 vcenter">
+
+              <h1 class="addax-heading alignLeft">Our Work</h1>
+              <h2 class="addax-subheading alignLeft">Work that makes us proud</h2>
+
+          </div><!--
+       --><div class="col-md-8 vcenter">
+
+                <div class="addax-filters">
+                  <a class="filter selected" href="#0" id="all">All</a>
+                  <a class="filter" href="#0" id="category1">Category1</a>
+                  <a class="filter" href="#0" id="category2">Category2</a>
+                  <a class="filter" href="#0" id="category3">Category3</a>
+                  <a class="filter" href="#0" id="category4">category4</a>
+                  <a class="filter" href="#0" id="category4">category4</a>
+                  <a class="filter" href="#0" id="category4">category4</a>
+                </div> <!-- addax-filters -->
+       
+          </div>
+
+        </div>
+
+      </div>  
+
+      <div class="container container-full">
+
+
+
+        <div class="row ap-row addax-filter-gallery">
+
+
+            <div class="col-md-3 no-padding category1">
+
+              <div class="ap-single">
+
+
+                <div class="ap-img">
+                  <img src="assets/img/port1.jpg">
+                </div>
+
+                <div class="ap-content">
+
+                  <h3>Web Design / Development</h3>
+                  <h1>Project Title</h1>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque euismod tincidunt odio, vitae suscipit neque tempus ut.</p>
+
+                    <div class="ap-links">
+                      <a href="#"><i class="fa fa-search" aria-hidden="true"></i>
+                        <a href="#"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+
+              </div>
+
+            </div>
+
+
+
+            <div class="col-md-3 ap-project no-padding">
+              
+               <div class="ap-single">
+
+
+                  <div class="ap-img">
+                    <img src="assets/img/port2.jpg">
+                  </div>
+
+                  <div class="ap-content">
+
+                    <h3>Web Design / Development</h3>
+                    <h1>Project Title</h1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque euismod tincidunt odio, vitae suscipit neque tempus ut.</p>
+
+                    <div class="ap-links">
+                      <a href="#"><i class="fa fa-search" aria-hidden="true"></i>
+                        <a href="#"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                    </div>
+
+                  </div>
+
+
+
+               </div>
+
+            </div>
+
+            <div class="col-md-3 no-padding category1">
+
+              <div class="ap-single">
+
+
+                <div class="ap-img">
+                  <img src="assets/img/port3.jpg">
+                </div>
+
+                <div class="ap-content">
+
+                  <h3>Web Design / Development</h3>
+                  <h1>Project Title</h1>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque euismod tincidunt odio, vitae suscipit neque tempus ut.</p>
+
+                  <div class="ap-links">
+                      <a href="#"><i class="fa fa-search" aria-hidden="true"></i>
+                        <a href="#"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                    </div>
+
+                </div>
+
+
+              </div>
+
+            </div>
+
+            <div class="col-md-3 no-padding">
+              
+               <div class="ap-single">
+
+
+                  <div class="ap-img">
+                    <img src="assets/img/port4.jpg">
+                  </div>
+
+                  <div class="ap-content">
+
+                    <h3>Web Design / Development</h3>
+                    <h1>Project Title</h1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque euismod tincidunt odio, vitae suscipit neque tempus ut.</p>
+
+                    <div class="ap-links">
+                      <a href="#"><i class="fa fa-search" aria-hidden="true"></i>
+                        <a href="#"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                    </div>
+
+                  </div>
+
+
+               </div>
+
+            </div>
+
+
+            <div class="col-md-3 no-padding category1">
+
+              <div class="ap-single">
+
+
+                <div class="ap-img">
+                  <img src="assets/img/port3.jpg">
+                </div>
+
+                <div class="ap-content">
+
+                  <h3>Web Design / Development</h3>
+                  <h1>Project Title</h1>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque euismod tincidunt odio, vitae suscipit neque tempus ut.</p>
+
+                  <div class="ap-links">
+                      <a href="#"><i class="fa fa-search" aria-hidden="true"></i>
+                        <a href="#"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                    </div>
+
+                </div>
+
+
+              </div>
+
+            </div>
+
+
+            <div class="col-md-3 no-padding category1">
+
+              <div class="ap-single">
+
+
+                <div class="ap-img">
+                  <img src="assets/img/port3.jpg">
+                </div>
+
+                <div class="ap-content">
+
+                  <h3>Web Design / Development</h3>
+                  <h1>Project Title</h1>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque euismod tincidunt odio, vitae suscipit neque tempus ut.</p>
+
+                  <div class="ap-links">
+                      <a href="#"><i class="fa fa-search" aria-hidden="true"></i>
+                        <a href="#"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                    </div>
+
+                </div>
+
+
+              </div>
+
+            </div>
+
+
+
+            <div class="col-md-3 no-padding category1">
+
+              <div class="ap-single">
+
+
+                <div class="ap-img">
+                  <img src="assets/img/port3.jpg">
+                </div>
+
+                <div class="ap-content">
+
+                  <h3>Web Design / Development</h3>
+                  <h1>Project Title</h1>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque euismod tincidunt odio, vitae suscipit neque tempus ut.</p>
+
+                  <div class="ap-links">
+                      <a href="#"><i class="fa fa-search" aria-hidden="true"></i>
+                        <a href="#"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                    </div>
+
+                </div>
+
+
+              </div>
+
+            </div>
+
+
+
+
+            <div class="col-md-3 no-padding category1">
+
+              <div class="ap-single">
+
+
+                <div class="ap-img">
+                  <img src="assets/img/port3.jpg">
+                </div>
+
+                <div class="ap-content">
+
+                  <h3>Web Design / Development</h3>
+                  <h1>Project Title</h1>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque euismod tincidunt odio, vitae suscipit neque tempus ut.</p>
+
+                  <div class="ap-links">
+                      <a href="#"><i class="fa fa-search" aria-hidden="true"></i>
+                        <a href="#"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                    </div>
+
+                </div>
+
+
+              </div>
+
+            </div>
+
+
+
+        </div>
+
+
+
+        
+        <div class="row">
+
+
+            <div class="col-sm-12 af-error">
+                <p class="alignCenter">Sorry No Matching Item Found !</p>
+            </div>
+
+            
+        </div>
+
+      </div>
+
+
+
+
+
+    </div>
+
+    <!-- end of projects -->
+
+
+
+
+    <div class="container" style="padding-top:80px; padding-bottom:50px;">
+
+      <div class="row">
+
+
+        <div class="col-sm-12">
+
+          <h1 class="addax-heading alignRight">How We Work</h1>
+          <h2 class="addax-subheading alignRight">Neque porro quisquam est qui dolorem ipsum quia dolor</h2>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+
+
+    <div class="container"><!-- addax vertical carousle -->
+
+      <div id="addax-vertical-carousel">
+
+        <div class="avc-container">
+
+            <div class="slide">
+              <div class="avc-img"> <img src="assets/img/port1.jpg"> </div>
+              <div class="avc-content"> 
+
+                <div class="avcDesc">
+                  <h1>Slide One</h1>
+                  <h2>Sub heading goes here</h2>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pulvinar fringilla nisi vel vestibulum. Integer in sollicitudin ligula. Cras tristique sem eu eros tempus, vel mollis nulla venenatis.</p>
+
+
+                  <a href="#" class="btn">Read More</a>
+                </div>
+
+              </div>
+            </div>
+
+
+            <div class="slide">
+              <div class="avc-img"> <img src="assets/img/port4.jpg"> </div>
+              
+              <div class="avc-content"> 
+
+                <div class="avcDesc">
+                  <h1>Slide Two</h1>
+                  <h2>Sub heading goes here</h2>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pulvinar fringilla nisi vel vestibulum. Integer in sollicitudin ligula. Cras tristique sem eu eros tempus, vel mollis nulla venenatis.</p>
+
+                  <a href="#" class="btn">Read More</a>
+                </div>
+
+              </div>
+            </div>
+
+            <div class="slide">
+              <div class="avc-img"> <img src="assets/img/port3.jpg"> </div>
+              
+              <div class="avc-content"> 
+
+                <div class="avcDesc">
+                  <h1>Slide Three</h1>
+                  <h2>Sub heading goes here</h2>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pulvinar fringilla nisi vel vestibulum. Integer in sollicitudin ligula. Cras tristique sem eu eros tempus, vel mollis nulla venenatis.</p>
+
+                  <a href="#" class="btn">Read More</a>
+                </div>
+
+              </div>
+            </div>
+
+            <div class="slide">
+              <div class="avc-img"> <img src="assets/img/port2.jpg"> </div>
+              
+              <div class="avc-content"> 
+
+                <div class="avcDesc">
+                  <h1>Slide Four</h1>
+                  <h2>Sub heading goes here</h2>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pulvinar fringilla nisi vel vestibulum. Integer in sollicitudin ligula. Cras tristique sem eu eros tempus, vel mollis nulla venenatis.</p>
+
+
+                  <a href="#" class="btn">Read More</a>
+                </div>
+
+              </div>
+            </div>
+         </div> 
+
+         <div class="customNavigation">
+         </div>
+          
+      </div><!-- addax vertical carousle -->
+
+    </div>

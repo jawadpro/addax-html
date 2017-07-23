@@ -1,0 +1,52 @@
+/*fonts*/
+@primary-font : 'Roboto Slab', serif;
+@secondary-font : 'Raleway', sans-serif;
+
+/*color*/
+
+@primary-color: #218ddf;
+
+
+/*media query mixins*/
+
+@desktop-lg: ~"only screen and (max-width : 1200px)";
+@desktop-md: ~"only screen and (max-width : 1024px)";
+@tablet: ~"only screen and (max-width : 768px)";
+@mobile-sm: ~"only screen and (max-width : 480px)";
+@mobile-xs: ~"only screen and (max-width : 320px)";
+
+
+
+/*=====help classes=======*/
+
+/*textalignment*/
+
+.alignLeft{
+	text-align:left;
+}
+.alignRight{
+	text-align:right;
+}
+.alignCenter{
+	text-align:center;
+}
+
+
+/*transition*/
+.transition(@delay:.2s){
+	transition: @delay all ease-in;
+	-webkit-transition: @delay all ease-in;
+	-moz-transition: @delay all ease-in;
+	-o-transition: @delay all ease-in;
+}
+
+
+.primary-font(@font-weight:400){
+	font-family:@primary-font;
+	font-weight:@font-weight;
+}
+
+.secondary-font(@font-weight:400){
+	font-family:@secondary-font;
+	font-weight:@font-weight;
+}
